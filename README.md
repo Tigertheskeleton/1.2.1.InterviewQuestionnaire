@@ -8,7 +8,13 @@ What are some pros and cons of the Emerald campus?
 
 How has school affected your health?
 
+How much time do you have to yourself per day? Is it enough?
+
 How have the staff at Emerald been to you?
+
+What is your stance on the false fire alarms?
+
+What do you hope to get out of going to Emerald?
 
 If you could change Emerald's schedule, would you and what would the changes be?
 
