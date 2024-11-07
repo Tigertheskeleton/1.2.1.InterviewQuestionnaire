@@ -9,5 +9,6 @@ How have the staff at Emerald been to you?
 If you could change Emerald's schedule, would you and what would the changes be?
 What is your overall sentiment toward the DUSD school system?
 
-Topic: Education
+Topic: Education.
+
 Reasoning: This information can provide insight on the good and bad things about Emerald and ways of improving it.
