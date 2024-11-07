@@ -2,7 +2,8 @@
 
 Interview Questions (may add more later): 
 
-"Are there any classes or clubs that you'd like to be implemented in Emerald? If so, what are they?
+"
+Are there any classes or clubs that you'd like to be implemented in Emerald? If so, what are they?
 What are some pros and cons of the Emerald campus?
 How has school affected your health?
 How have the staff at Emerald been to you?
