@@ -1,6 +1,6 @@
 # 1.2.1.InterviewQuestionnaire
 
-Interview Questions (may add more later): 
+Interview Questions: 
 -----------------------------------------
 Are there any classes or clubs that you'd like to be implemented in Emerald? If so, what are they?
 
